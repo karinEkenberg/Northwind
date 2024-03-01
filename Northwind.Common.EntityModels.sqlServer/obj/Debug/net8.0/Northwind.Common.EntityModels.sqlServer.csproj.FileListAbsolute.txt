@@ -1,0 +1,14 @@
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.deps.json
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.dll
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.AssemblyInfoInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.AssemblyInfo.cs
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.csproj.CoreCompileInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.dll
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\refint\Northwind.Common.EntityModels.sqlServer.dll
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\ref\Northwind.Common.EntityModels.sqlServer.dll
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.runtimeconfig.json
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.csproj.AssemblyReference.cache
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.EntityModels.sqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.genruntimeconfig.cache
