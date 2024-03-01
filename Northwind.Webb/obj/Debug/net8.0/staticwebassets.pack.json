@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c#2\\Northwind.Webb\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Northwind.Webb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Northwind.Webb.props",
+      "PackagePath": "build\\Northwind.Webb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Northwind.Webb.props",
+      "PackagePath": "buildMultiTargeting\\Northwind.Webb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Northwind.Webb.props",
+      "PackagePath": "buildTransitive\\Northwind.Webb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

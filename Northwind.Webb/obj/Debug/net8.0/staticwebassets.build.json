@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "PZJKiB7iJCeQRQ5s/1PjG3vtj3ziDaYfGOnB5VKwvV4=",
+  "Source": "Northwind.Webb",
+  "BasePath": "_content/Northwind.Webb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind.Webb\\wwwroot",
+      "Source": "Northwind.Webb",
+      "ContentRoot": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c#2\\Northwind.Webb\\wwwroot\\",
+      "BasePath": "_content/Northwind.Webb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c#2\\Northwind.Webb\\wwwroot\\index.html",
+      "SourceId": "Northwind.Webb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c#2\\Northwind.Webb\\wwwroot\\",
+      "BasePath": "_content/Northwind.Webb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
