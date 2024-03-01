@@ -1,0 +1,15 @@
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.sqlServer.deps.json
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.sqlServer.dll
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.sqlServer.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.dll
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.sqlServer.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.sqlServer.csproj.AssemblyReference.cache
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.sqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.sqlServer.AssemblyInfoInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.sqlServer.AssemblyInfo.cs
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.sqlServer.csproj.CoreCompileInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\Northwin.B4E08829.Up2Date
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.sqlServer.dll
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\refint\Northwind.Common.DataContext.sqlServer.dll
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.sqlServer.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c#2\Northwind.Common.DataContext.sqlServer\obj\Debug\net8.0\ref\Northwind.Common.DataContext.sqlServer.dll
